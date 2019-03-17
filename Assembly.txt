@@ -1,0 +1,3 @@
+mov eax,variable   ; moves address of variable into eax
+lea eax,[variable] ; equivalent to the previous one (LEA is exception)
+mov eax,[variable] ; moves content of variable into eax
