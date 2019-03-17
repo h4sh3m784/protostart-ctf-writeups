@@ -1,4 +1,4 @@
-##This is the writeup for how to solve Protostar-stack0 challange..
+## This is the writeup for how to solve Protostar-stack0 challange..
 
 The code:
 
@@ -21,8 +21,8 @@ The code:
         }
     }
 
-####Objective
+#### Objective
 modify the "modified" variable, so that we can change the flow of the if/else statement.
 
-####How?
+#### How?
 We can use the "buffer" array to create a buffer overflow attack.
